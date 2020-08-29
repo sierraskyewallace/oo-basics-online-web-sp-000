@@ -8,6 +8,7 @@ end
   def authot=(author)
     @author = author
 end
+end
 
 
 
